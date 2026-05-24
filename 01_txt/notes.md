@@ -286,17 +286,3 @@ Export → TXT / JSON / CSV
 ```
 
 ---
-
-## 10. Common Mistakes
-
-| Mistake | Bug | Fix |
-|---------|-----|-----|
-| `==` on full line | Won't find substrings | Use `in` + `.lower()` |
-| `in` on extracted field | Works but imprecise | Use `split()` + `==` when column is known |
-| No `.lower()` | Misses case variants | `.lower()` both sides |
-| `read()` for line loop | Can't iterate string | Use `readlines()` |
-| `readlines()` for regex | List ≠ string | Use `read()` |
-| No `.strip()` | `\n` in output/stored data | Strip before storing |
-| No `if m:` check | Crashes on `None.group()` | Always check match object |
-| `f` as loop variable | Shadows file handle | Use `entry`, `item`, etc. |
-| No `\n` in `f.write()` | All on one line | Always `+ "\n"` |
