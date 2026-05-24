@@ -261,14 +261,3 @@ with open("output/cleaned.csv", "w", newline="") as f:
 `fieldnames` must be defined explicitly — controls column order in output.
 
 ---
-
-## 10. Common Mistakes
-
-| Mistake | Bug | Fix |
-|---------|-----|-----|
-| Running `strptime` on empty string | `ValueError` crash | Check `== ""` first with `if/else` |
-| Filtering on raw data | Dirty values pass through | Always filter after cleaning |
-| No `round()` on float math | `2489.980000001` in output | `round(value, 2)` |
-| `None` check on missing CSV field | Never triggers | CSV missing = `""` not `None` |
-| Duplicate date missing check | Prints warning twice | One `if/else` block handles both |
-| Type conversion before validation | Can crash on malformed rows | Validate structure first, convert last |
