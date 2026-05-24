@@ -1,0 +1,21 @@
+date,time,level,message
+2026-05-24,09:15:23,INFO,User Rahul logged in from 192.168.1.10
+2026-05-24,09:17:01,WARNING,CPU usage reached 85%
+2026-05-24,09:18:45,ERROR,Failed login attempt from 10.0.0.15
+2026-05-24,09:20:12,INFO,User Aisha uploaded report.pdf
+2026-05-24,09:21:33,ERROR,Database connection timeout from 172.16.0.8
+2026-05-24,09:22:40,INFO,User Vikram downloaded invoice.csv
+2026-05-24,09:24:18,WARNING,Disk space low on server-2
+2026-05-24,09:25:55,ERROR,Unauthorized access attempt from 192.168.1.45
+2026-05-24,09:27:30,INFO,User Neha changed password
+2026-05-24,09:28:42,INFO,Backup process completed successfully
+2026-05-24,09:30:01,ERROR,API request failed from 10.10.10.10
+2026-05-24,09:31:20,WARNING,High memory usage detected
+2026-05-24,09:33:47,INFO,User Arjun logged out
+2026-05-24,09:35:02,ERROR,Failed payment processing from 172.20.1.5
+2026-05-24,09:36:15,INFO,User Sana updated profile picture
+2026-05-24,09:38:29,WARNING,Network latency increased
+2026-05-24,09:40:11,ERROR,File upload failed from 192.168.100.2
+2026-05-24,09:42:50,INFO,User Kabir generated monthly report
+2026-05-24,09:44:05,INFO,Scheduled maintenance started
+2026-05-24,09:45:33,ERROR,Session expired for user ID 4582

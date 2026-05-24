@@ -1,0 +1,100 @@
+Date: 2026-05-24
+Time: 09:15:23
+Level: INFO
+Message: User Rahul logged in from 192.168.1.10
+----------------------------------------
+Date: 2026-05-24
+Time: 09:17:01
+Level: WARNING
+Message: CPU usage reached 85%
+----------------------------------------
+Date: 2026-05-24
+Time: 09:18:45
+Level: ERROR
+Message: Failed login attempt from 10.0.0.15
+----------------------------------------
+Date: 2026-05-24
+Time: 09:20:12
+Level: INFO
+Message: User Aisha uploaded report.pdf
+----------------------------------------
+Date: 2026-05-24
+Time: 09:21:33
+Level: ERROR
+Message: Database connection timeout from 172.16.0.8
+----------------------------------------
+Date: 2026-05-24
+Time: 09:22:40
+Level: INFO
+Message: User Vikram downloaded invoice.csv
+----------------------------------------
+Date: 2026-05-24
+Time: 09:24:18
+Level: WARNING
+Message: Disk space low on server-2
+----------------------------------------
+Date: 2026-05-24
+Time: 09:25:55
+Level: ERROR
+Message: Unauthorized access attempt from 192.168.1.45
+----------------------------------------
+Date: 2026-05-24
+Time: 09:27:30
+Level: INFO
+Message: User Neha changed password
+----------------------------------------
+Date: 2026-05-24
+Time: 09:28:42
+Level: INFO
+Message: Backup process completed successfully
+----------------------------------------
+Date: 2026-05-24
+Time: 09:30:01
+Level: ERROR
+Message: API request failed from 10.10.10.10
+----------------------------------------
+Date: 2026-05-24
+Time: 09:31:20
+Level: WARNING
+Message: High memory usage detected
+----------------------------------------
+Date: 2026-05-24
+Time: 09:33:47
+Level: INFO
+Message: User Arjun logged out
+----------------------------------------
+Date: 2026-05-24
+Time: 09:35:02
+Level: ERROR
+Message: Failed payment processing from 172.20.1.5
+----------------------------------------
+Date: 2026-05-24
+Time: 09:36:15
+Level: INFO
+Message: User Sana updated profile picture
+----------------------------------------
+Date: 2026-05-24
+Time: 09:38:29
+Level: WARNING
+Message: Network latency increased
+----------------------------------------
+Date: 2026-05-24
+Time: 09:40:11
+Level: ERROR
+Message: File upload failed from 192.168.100.2
+----------------------------------------
+Date: 2026-05-24
+Time: 09:42:50
+Level: INFO
+Message: User Kabir generated monthly report
+----------------------------------------
+Date: 2026-05-24
+Time: 09:44:05
+Level: INFO
+Message: Scheduled maintenance started
+----------------------------------------
+Date: 2026-05-24
+Time: 09:45:33
+Level: ERROR
+Message: Session expired for user ID 4582
+----------------------------------------
