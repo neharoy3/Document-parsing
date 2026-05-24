@@ -15,4 +15,5 @@
 
 ## Folder Structure
 input/   -> raw logs  
-output/  -> extracted/exported data
+output/  -> extracted/exported data  
+notes.md -> learned concepts
