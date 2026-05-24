@@ -13,7 +13,6 @@
 - Structured parsing
 - Data exporting
 
-## Folder Structure
-input/   -> raw logs  
-output/  -> extracted/exported data  
-notes.md -> learned concepts
+## Notes
+Detailed parsing notes available here:
+[TXT Parsing Notes](notes.md)
