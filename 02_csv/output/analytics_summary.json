@@ -1,0 +1,39 @@
+{
+    "total_revenue": 3869.37,
+    "average_order_value": 161.22375,
+    "highest_order": {
+        "order_id": "1009",
+        "date": "2024-01-25",
+        "customer": "Henry Adams",
+        "region": "West",
+        "product": "Desk Chair",
+        "category": "Furniture",
+        "quantity": 2,
+        "unit_price": 199.99,
+        "total": 399.98,
+        "status": "Completed"
+    },
+    "lowest_order": {
+        "order_id": "1024",
+        "date": "2024-03-12",
+        "customer": "Bob Smith",
+        "region": "South",
+        "product": "Notebook Pack",
+        "category": "Stationery",
+        "quantity": 4,
+        "unit_price": 4.99,
+        "total": 19.96,
+        "status": "Completed"
+    },
+    "sales_per_region": {
+        "South": 6,
+        "North": 7,
+        "East": 6,
+        "West": 5
+    },
+    "revenue_per_category": {
+        "Electronics": 1679.7300000000002,
+        "Stationery": 139.72,
+        "Furniture": 2049.92
+    }
+}

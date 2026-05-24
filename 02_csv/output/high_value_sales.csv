@@ -1,0 +1,8 @@
+order_id,date,customer,region,product,category,quantity,unit_price,total,status
+1009,2024-01-25,Henry Adams,West,Desk Chair,Furniture,2,199.99,399.98,Completed
+1012,2024-02-05,Karen Scott,East,Standing Desk,Furniture,1,349.99,349.99,Completed
+1013,2024-02-08,Bob Smith,South,Monitor,Electronics,1,299.99,299.99,Completed
+1020,2024-02-28,Rachel Moore,East,Standing Desk,Furniture,1,349.99,349.99,Completed
+1021,2024-03-03,Alice Johnson,North,Monitor,Electronics,1,299.99,299.99,Completed
+1027,2024-03-20,Wendy Cole,West,Standing Desk,Furniture,1,349.99,349.99,Completed
+1030,2024-03-28,Zack Morgan,North,Desk Chair,Furniture,1,199.99,199.99,Completed
