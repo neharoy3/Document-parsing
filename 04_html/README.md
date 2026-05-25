@@ -64,3 +64,7 @@ pip install -r requirements.txt
 ## Notes
 
 Detailed HTML parsing notes available here: [HTML Parsing Notes](notes.md)
+
+## Learning Resource
+
+[Corey Schafer — Web Scraping with BeautifulSoup and Requests](https://www.youtube.com/watch?v=ng2o98k983k)
