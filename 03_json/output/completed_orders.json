@@ -1,0 +1,599 @@
+[
+    {
+        "order_id": "ORD-1001",
+        "placed_at": "2024-01-05T08:23:11Z",
+        "status": "Completed",
+        "customer": {
+            "customer_id": "CUST-201",
+            "name": "Alice Johnson",
+            "email": "alice@example.com",
+            "address": {
+                "street": "12 Maple Avenue",
+                "city": "Austin",
+                "state": "TX",
+                "zip": "73301"
+            }
+        },
+        "items": [
+            {
+                "product_id": "PRD-01",
+                "name": "Wireless Mouse",
+                "category": "Electronics",
+                "quantity": 2,
+                "unit_price": 29.99
+            },
+            {
+                "product_id": "PRD-05",
+                "name": "Notebook Pack",
+                "category": "Stationery",
+                "quantity": 3,
+                "unit_price": 4.99
+            }
+        ],
+        "payment": {
+            "method": "credit_card",
+            "status": "paid",
+            "amount": 74.95
+        },
+        "shipping": {
+            "carrier": "FedEx",
+            "tracking_id": "FX-88291",
+            "estimated_delivery": "2024-01-10"
+        }
+    },
+    {
+        "order_id": "ORD-1002",
+        "placed_at": "2024-01-07T14:10:00Z",
+        "status": "Completed",
+        "customer": {
+            "customer_id": "CUST-202",
+            "name": "Bob Smith",
+            "email": "bob@example.com",
+            "address": {
+                "street": "88 Oak Street",
+                "city": "Dallas",
+                "state": "TX",
+                "zip": "75201"
+            }
+        },
+        "items": [
+            {
+                "product_id": "PRD-02",
+                "name": "Desk Chair",
+                "category": "Furniture",
+                "quantity": 1,
+                "unit_price": 199.99
+            }
+        ],
+        "payment": {
+            "method": "paypal",
+            "status": "paid",
+            "amount": 199.99
+        },
+        "shipping": {
+            "carrier": "UPS",
+            "tracking_id": "UP-44512",
+            "estimated_delivery": "2024-01-12"
+        }
+    },
+    {
+        "order_id": "ORD-1004",
+        "placed_at": "2024-01-12T11:45:00Z",
+        "status": "Completed",
+        "customer": {
+            "customer_id": "CUST-204",
+            "name": "David Lee",
+            "email": "david@example.com",
+            "address": {
+                "street": "9 Birch Lane",
+                "city": "San Antonio",
+                "state": "TX",
+                "zip": "78201"
+            }
+        },
+        "items": [
+            {
+                "product_id": "PRD-04",
+                "name": "Monitor",
+                "category": "Electronics",
+                "quantity": 1,
+                "unit_price": 299.99
+            },
+            {
+                "product_id": "PRD-06",
+                "name": "USB Hub",
+                "category": "Electronics",
+                "quantity": 3,
+                "unit_price": 19.99
+            }
+        ],
+        "payment": {
+            "method": "debit_card",
+            "status": "paid",
+            "amount": 359.96
+        },
+        "shipping": {
+            "carrier": "DHL",
+            "tracking_id": "DH-99021",
+            "estimated_delivery": "2024-01-17"
+        }
+    },
+    {
+        "order_id": "ORD-1007",
+        "placed_at": "2024-01-20T07:15:00Z",
+        "status": "Completed",
+        "customer": {
+            "customer_id": "CUST-201",
+            "name": "Alice Johnson",
+            "email": "alice@example.com",
+            "address": {
+                "street": "12 Maple Avenue",
+                "city": "Austin",
+                "state": "TX",
+                "zip": "73301"
+            }
+        },
+        "items": [
+            {
+                "product_id": "PRD-05",
+                "name": "Notebook Pack",
+                "category": "Stationery",
+                "quantity": 10,
+                "unit_price": 4.99
+            }
+        ],
+        "payment": {
+            "method": "credit_card",
+            "status": "paid",
+            "amount": 49.9
+        },
+        "shipping": {
+            "carrier": "FedEx",
+            "tracking_id": "FX-88410",
+            "estimated_delivery": "2024-01-25"
+        }
+    },
+    {
+        "order_id": "ORD-1008",
+        "placed_at": "2024-01-22T13:00:00Z",
+        "status": "Completed",
+        "customer": {
+            "customer_id": "CUST-207",
+            "name": "Grace Hall",
+            "email": "grace@example.com",
+            "address": {
+                "street": "77 Spruce Court",
+                "city": "Houston",
+                "state": "TX",
+                "zip": "77002"
+            }
+        },
+        "items": [
+            {
+                "product_id": "PRD-04",
+                "name": "Monitor",
+                "category": "Electronics",
+                "quantity": 1,
+                "unit_price": 299.99
+            },
+            {
+                "product_id": "PRD-01",
+                "name": "Wireless Mouse",
+                "category": "Electronics",
+                "quantity": 2,
+                "unit_price": 29.99
+            }
+        ],
+        "payment": {
+            "method": "debit_card",
+            "status": "paid",
+            "amount": 359.97
+        },
+        "shipping": {
+            "carrier": "DHL",
+            "tracking_id": "DH-99100",
+            "estimated_delivery": "2024-01-27"
+        }
+    },
+    {
+        "order_id": "ORD-1009",
+        "placed_at": "2024-02-01T10:20:00Z",
+        "status": "Completed",
+        "customer": {
+            "customer_id": "CUST-208",
+            "name": "Henry Adams",
+            "email": "henry@example.com",
+            "address": {
+                "street": "5 Elmwood Drive",
+                "city": "Dallas",
+                "state": "TX",
+                "zip": "75202"
+            }
+        },
+        "items": [
+            {
+                "product_id": "PRD-02",
+                "name": "Desk Chair",
+                "category": "Furniture",
+                "quantity": 2,
+                "unit_price": 199.99
+            }
+        ],
+        "payment": {
+            "method": "credit_card",
+            "status": "paid",
+            "amount": 399.98
+        },
+        "shipping": {
+            "carrier": "UPS",
+            "tracking_id": "UP-66341",
+            "estimated_delivery": "2024-02-06"
+        }
+    },
+    {
+        "order_id": "ORD-1010",
+        "placed_at": "2024-02-05T09:45:00Z",
+        "status": "Completed",
+        "customer": {
+            "customer_id": "CUST-209",
+            "name": "Ivy Clark",
+            "email": "ivy@example.com",
+            "address": null
+        },
+        "items": [
+            {
+                "product_id": "PRD-07",
+                "name": "Webcam",
+                "category": "Electronics",
+                "quantity": 1,
+                "unit_price": 79.99
+            },
+            {
+                "product_id": "PRD-06",
+                "name": "USB Hub",
+                "category": "Electronics",
+                "quantity": 2,
+                "unit_price": 19.99
+            }
+        ],
+        "payment": {
+            "method": "paypal",
+            "status": "paid",
+            "amount": 119.97
+        },
+        "shipping": {
+            "carrier": "FedEx",
+            "tracking_id": "FX-88520",
+            "estimated_delivery": "2024-02-10"
+        }
+    },
+    {
+        "order_id": "ORD-1011",
+        "placed_at": "2024-02-08T15:30:00Z",
+        "status": "Completed",
+        "customer": {
+            "customer_id": "CUST-210",
+            "name": "Jack Turner",
+            "email": "jack@example.com",
+            "address": {
+                "street": "18 Redwood Blvd",
+                "city": "Austin",
+                "state": "TX",
+                "zip": "73302"
+            }
+        },
+        "items": [
+            {
+                "product_id": "PRD-03",
+                "name": "Standing Desk",
+                "category": "Furniture",
+                "quantity": 1,
+                "unit_price": 349.99
+            },
+            {
+                "product_id": "PRD-01",
+                "name": "Wireless Mouse",
+                "category": "Electronics",
+                "quantity": 1,
+                "unit_price": 29.99
+            }
+        ],
+        "payment": {
+            "method": "credit_card",
+            "status": "paid",
+            "amount": 379.98
+        },
+        "shipping": {
+            "carrier": "DHL",
+            "tracking_id": "DH-99210",
+            "estimated_delivery": "2024-02-13"
+        }
+    },
+    {
+        "order_id": "ORD-1012",
+        "placed_at": "2024-02-10T08:00:00Z",
+        "status": "Completed",
+        "customer": {
+            "customer_id": "CUST-211",
+            "name": "Karen Scott",
+            "email": "karen@example.com",
+            "address": {
+                "street": "62 Ashwood Lane",
+                "city": "San Antonio",
+                "state": "TX",
+                "zip": "78202"
+            }
+        },
+        "items": [
+            {
+                "product_id": "PRD-04",
+                "name": "Monitor",
+                "category": "Electronics",
+                "quantity": 1,
+                "unit_price": 299.99
+            }
+        ],
+        "payment": {
+            "method": "debit_card",
+            "status": "paid",
+            "amount": 299.99
+        },
+        "shipping": {
+            "carrier": "UPS",
+            "tracking_id": "UP-66490",
+            "estimated_delivery": "2024-02-15"
+        }
+    },
+    {
+        "order_id": "ORD-1014",
+        "placed_at": "2024-02-18T14:25:00Z",
+        "status": "Completed",
+        "customer": {
+            "customer_id": "CUST-213",
+            "name": "Mia Wright",
+            "email": "mia@example.com",
+            "address": {
+                "street": "99 Hickory Road",
+                "city": "Dallas",
+                "state": "TX",
+                "zip": "75203"
+            }
+        },
+        "items": [
+            {
+                "product_id": "PRD-02",
+                "name": "Desk Chair",
+                "category": "Furniture",
+                "quantity": 1,
+                "unit_price": 199.99
+            },
+            {
+                "product_id": "PRD-07",
+                "name": "Webcam",
+                "category": "Electronics",
+                "quantity": 2,
+                "unit_price": 79.99
+            }
+        ],
+        "payment": {
+            "method": "paypal",
+            "status": "paid",
+            "amount": 359.97
+        },
+        "shipping": {
+            "carrier": "FedEx",
+            "tracking_id": "FX-88631",
+            "estimated_delivery": "2024-02-23"
+        }
+    },
+    {
+        "order_id": "ORD-1015",
+        "placed_at": "2024-02-22T09:55:00Z",
+        "status": "Completed",
+        "customer": {
+            "customer_id": "CUST-214",
+            "name": "Noah Hill",
+            "email": "noah@example.com",
+            "address": {
+                "street": "14 Sycamore Ave",
+                "city": "Austin",
+                "state": "TX",
+                "zip": "73303"
+            }
+        },
+        "items": [
+            {
+                "product_id": "PRD-01",
+                "name": "Wireless Mouse",
+                "category": "Electronics",
+                "quantity": 3,
+                "unit_price": 29.99
+            },
+            {
+                "product_id": "PRD-04",
+                "name": "Monitor",
+                "category": "Electronics",
+                "quantity": 1,
+                "unit_price": 299.99
+            }
+        ],
+        "payment": {
+            "method": "credit_card",
+            "status": "paid",
+            "amount": 389.96
+        },
+        "shipping": {
+            "carrier": "DHL",
+            "tracking_id": "DH-99330",
+            "estimated_delivery": "2024-02-27"
+        }
+    },
+    {
+        "order_id": "ORD-1016",
+        "placed_at": "2024-03-01T10:00:00Z",
+        "status": "Completed",
+        "customer": {
+            "customer_id": "CUST-215",
+            "name": "Olivia Young",
+            "email": "olivia@example.com",
+            "address": {
+                "street": "55 Chestnut Blvd",
+                "city": "El Paso",
+                "state": "TX",
+                "zip": "79902"
+            }
+        },
+        "items": [
+            {
+                "product_id": "PRD-03",
+                "name": "Standing Desk",
+                "category": "Furniture",
+                "quantity": 1,
+                "unit_price": 349.99
+            }
+        ],
+        "payment": {
+            "method": "debit_card",
+            "status": "paid",
+            "amount": 349.99
+        },
+        "shipping": {
+            "carrier": "UPS",
+            "tracking_id": "UP-66701",
+            "estimated_delivery": "2024-03-06"
+        }
+    },
+    {
+        "order_id": "ORD-1017",
+        "placed_at": "2024-03-05T13:40:00Z",
+        "status": "Completed",
+        "customer": {
+            "customer_id": "CUST-202",
+            "name": "Bob Smith",
+            "email": "bob@example.com",
+            "address": {
+                "street": "88 Oak Street",
+                "city": "Dallas",
+                "state": "TX",
+                "zip": "75201"
+            }
+        },
+        "items": [
+            {
+                "product_id": "PRD-06",
+                "name": "USB Hub",
+                "category": "Electronics",
+                "quantity": 4,
+                "unit_price": 19.99
+            },
+            {
+                "product_id": "PRD-05",
+                "name": "Notebook Pack",
+                "category": "Stationery",
+                "quantity": 5,
+                "unit_price": 4.99
+            }
+        ],
+        "payment": {
+            "method": "credit_card",
+            "status": "paid",
+            "amount": 104.91
+        },
+        "shipping": {
+            "carrier": "FedEx",
+            "tracking_id": "FX-88750",
+            "estimated_delivery": "2024-03-10"
+        }
+    },
+    {
+        "order_id": "ORD-1019",
+        "placed_at": "2024-03-15T12:15:00Z",
+        "status": "Completed",
+        "customer": {
+            "customer_id": "CUST-217",
+            "name": "Quinn Ross",
+            "email": "quinn@example.com",
+            "address": {
+                "street": "7 Laurel Street",
+                "city": "San Antonio",
+                "state": "TX",
+                "zip": "78203"
+            }
+        },
+        "items": [
+            {
+                "product_id": "PRD-07",
+                "name": "Webcam",
+                "category": "Electronics",
+                "quantity": 1,
+                "unit_price": 79.99
+            },
+            {
+                "product_id": "PRD-01",
+                "name": "Wireless Mouse",
+                "category": "Electronics",
+                "quantity": 2,
+                "unit_price": 29.99
+            }
+        ],
+        "payment": {
+            "method": "credit_card",
+            "status": "paid",
+            "amount": 139.97
+        },
+        "shipping": {
+            "carrier": "DHL",
+            "tracking_id": "DH-99450",
+            "estimated_delivery": "2024-03-20"
+        }
+    },
+    {
+        "order_id": "ORD-1020",
+        "placed_at": "2024-03-20T15:00:00Z",
+        "status": "Completed",
+        "customer": {
+            "customer_id": "CUST-218",
+            "name": "Rachel Moore",
+            "email": "rachel@example.com",
+            "address": {
+                "street": "41 Willow Way",
+                "city": "Austin",
+                "state": "TX",
+                "zip": "73304"
+            }
+        },
+        "items": [
+            {
+                "product_id": "PRD-03",
+                "name": "Standing Desk",
+                "category": "Furniture",
+                "quantity": 1,
+                "unit_price": 349.99
+            },
+            {
+                "product_id": "PRD-04",
+                "name": "Monitor",
+                "category": "Electronics",
+                "quantity": 1,
+                "unit_price": 299.99
+            },
+            {
+                "product_id": "PRD-01",
+                "name": "Wireless Mouse",
+                "category": "Electronics",
+                "quantity": 1,
+                "unit_price": 29.99
+            }
+        ],
+        "payment": {
+            "method": "debit_card",
+            "status": "paid",
+            "amount": 679.97
+        },
+        "shipping": {
+            "carrier": "UPS",
+            "tracking_id": "UP-66890",
+            "estimated_delivery": "2024-03-25"
+        }
+    }
+]

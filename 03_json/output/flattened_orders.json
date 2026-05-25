@@ -1,0 +1,121 @@
+[
+    {
+        "order_id": "ORD-1001",
+        "customer_name": "Alice Johnson",
+        "city": "Austin",
+        "status": "Completed",
+        "payment_amount": 74.95
+    },
+    {
+        "order_id": "ORD-1002",
+        "customer_name": "Bob Smith",
+        "city": "Dallas",
+        "status": "Completed",
+        "payment_amount": 199.99
+    },
+    {
+        "order_id": "ORD-1003",
+        "customer_name": "Carol White",
+        "city": "Houston",
+        "status": "Cancelled",
+        "payment_amount": 349.99
+    },
+    {
+        "order_id": "ORD-1004",
+        "customer_name": "David Lee",
+        "city": "San Antonio",
+        "status": "Completed",
+        "payment_amount": 359.96
+    },
+    {
+        "order_id": "ORD-1007",
+        "customer_name": "Alice Johnson",
+        "city": "Austin",
+        "status": "Completed",
+        "payment_amount": 49.9
+    },
+    {
+        "order_id": "ORD-1008",
+        "customer_name": "Grace Hall",
+        "city": "Houston",
+        "status": "Completed",
+        "payment_amount": 359.97
+    },
+    {
+        "order_id": "ORD-1009",
+        "customer_name": "Henry Adams",
+        "city": "Dallas",
+        "status": "Completed",
+        "payment_amount": 399.98
+    },
+    {
+        "order_id": "ORD-1010",
+        "customer_name": "Ivy Clark",
+        "city": "Unknown",
+        "status": "Completed",
+        "payment_amount": 119.97
+    },
+    {
+        "order_id": "ORD-1011",
+        "customer_name": "Jack Turner",
+        "city": "Austin",
+        "status": "Completed",
+        "payment_amount": 379.98
+    },
+    {
+        "order_id": "ORD-1012",
+        "customer_name": "Karen Scott",
+        "city": "San Antonio",
+        "status": "Completed",
+        "payment_amount": 299.99
+    },
+    {
+        "order_id": "ORD-1013",
+        "customer_name": "Liam King",
+        "city": "Houston",
+        "status": "Pending",
+        "payment_amount": 59.91
+    },
+    {
+        "order_id": "ORD-1014",
+        "customer_name": "Mia Wright",
+        "city": "Dallas",
+        "status": "Completed",
+        "payment_amount": 359.97
+    },
+    {
+        "order_id": "ORD-1015",
+        "customer_name": "Noah Hill",
+        "city": "Austin",
+        "status": "Completed",
+        "payment_amount": 389.96
+    },
+    {
+        "order_id": "ORD-1016",
+        "customer_name": "Olivia Young",
+        "city": "El Paso",
+        "status": "Completed",
+        "payment_amount": 349.99
+    },
+    {
+        "order_id": "ORD-1017",
+        "customer_name": "Bob Smith",
+        "city": "Dallas",
+        "status": "Completed",
+        "payment_amount": 104.91
+    },
+    {
+        "order_id": "ORD-1019",
+        "customer_name": "Quinn Ross",
+        "city": "San Antonio",
+        "status": "Completed",
+        "payment_amount": 139.97
+    },
+    {
+        "order_id": "ORD-1020",
+        "customer_name": "Rachel Moore",
+        "city": "Austin",
+        "status": "Completed",
+        "payment_amount": 679.97
+    }
+]
