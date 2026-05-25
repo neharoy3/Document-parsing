@@ -7,6 +7,19 @@ Parses a semi-structured HTML document through a full pipeline:
 - cleans and validates extracted records
 - filters, flattens, and exports structured output
 
+## Requirements
+
+Libraries used:
+- `beautifulsoup4`
+- `lxml`
+- `requests`
+
+Install dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
 ## Pipeline
 
 ```text
