@@ -1,0 +1,90 @@
+[
+    {
+        "name": "Wireless Mouse",
+        "category": "Electronics",
+        "price": "$29.99",
+        "stock": "In Stock",
+        "rating": "4.5",
+        "url": "/products/wireless-mouse"
+    },
+    {
+        "name": "Mechanical Keyboard",
+        "category": "Electronics",
+        "price": "$89.99",
+        "stock": "In Stock",
+        "rating": "4.7",
+        "url": "/products/mechanical-keyboard"
+    },
+    {
+        "name": "27\" Monitor",
+        "category": "Electronics",
+        "price": "$299.99",
+        "stock": "Out of Stock",
+        "rating": "4.8",
+        "url": "/products/monitor-27"
+    },
+    {
+        "name": "USB-C Hub",
+        "category": "Electronics",
+        "price": "$19.99",
+        "stock": "In Stock",
+        "rating": "4.2",
+        "url": "/products/usb-c-hub"
+    },
+    {
+        "name": "Webcam HD",
+        "category": "Electronics",
+        "price": "$79.99",
+        "stock": "In Stock",
+        "rating": "4.3",
+        "url": "/products/webcam-hd"
+    },
+    {
+        "name": "Standing Desk",
+        "category": "Furniture",
+        "price": "$349.99",
+        "stock": "In Stock",
+        "rating": "4.6",
+        "url": "/products/standing-desk"
+    },
+    {
+        "name": "Desk Chair",
+        "category": "Furniture",
+        "price": "$199.99",
+        "stock": "Out of Stock",
+        "rating": "4.4",
+        "url": "/products/desk-chair"
+    },
+    {
+        "name": "Notebook Pack",
+        "category": "Stationery",
+        "price": "$4.99",
+        "stock": "In Stock",
+        "rating": "4.1",
+        "url": "/products/notebook-pack"
+    },
+    {
+        "name": "Laptop Stand",
+        "category": "Electronics",
+        "price": "$   49.99",
+        "stock": "In Stock",
+        "rating": "4.0",
+        "url": "/products/laptop-stand"
+    },
+    {
+        "name": "Noise Cancelling Headphones",
+        "category": "Electronics",
+        "price": "$149.99",
+        "stock": "In Stock",
+        "rating": "4.9",
+        "url": "/products/headphones-nc"
+    },
+    {
+        "name": "Cable Management Kit",
+        "category": "Accessories",
+        "price": "$12.99",
+        "stock": "In Stock",
+        "rating": "4.2",
+        "url": "/products/cable-kit"
+    }
+]
