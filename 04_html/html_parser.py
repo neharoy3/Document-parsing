@@ -7,7 +7,7 @@ with open("input/products.html","r") as f:
     html = f.read()
 
 #Parse and inspection
-soup = BeautifulSoup(html, "html.parser")
+soup = BeautifulSoup(html, "lxml")
 # print(type(soup))
 print(f"\nTitle:\n{soup.title}")
 # print(f"\nFormatted HTML Structure:\n{soup.prettify()[:3000]}")
