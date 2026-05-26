@@ -439,7 +439,7 @@ html = response.text
 ### Parse fetched HTML
 
 ```python
-soup = BeautifulSoup(html, "html.parser")
+soup = BeautifulSoup(html, "lxml")
 ```
 
 - `requests` retrieves the document
