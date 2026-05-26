@@ -1,0 +1,7 @@
+Approach,Method,,EMBER
+,,,Mean Min
+Baselines,None Joint,,27.5 0.6 88.7 74.5
+PriorWorks,GR BI-R,,26.8 09.5 27.0 09.2
+MalCL,L2toLabels,FML BCE,50.2 17.8 47.8 19.4
+,L1toCMean Logits,FML BCE,54.5 21.8 52.1 26.2
+,L1toBMean Logits,FML BCE,50.3 32.0 47.6 24.2
